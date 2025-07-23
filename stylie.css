@@ -127,6 +127,7 @@ audio::-webkit-media-controls-panel {
   .first-deepak {
     display: block;
     margin-left: auto;
+    width: 100%;
   }
   .para-and-audio {
     margin-left: 1rem;
