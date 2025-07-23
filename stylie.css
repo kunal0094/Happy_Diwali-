@@ -17,6 +17,9 @@
   width: 200px;
   margin-bottom: -60px;
 }
+#receiver{
+  color: red;
+}
 .hero-section p {
   font-size: 46px;
   max-width: 550px;
